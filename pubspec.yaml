@@ -1,7 +1,7 @@
 name: constrained_scroll_view
 description: A widget that prevents the content to be hidden from the keyboard or the screen resolution change.
 version: 0.1.0
-homepage:
+homepage: https://github.com/jezsung/constrained_scroll_view
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
